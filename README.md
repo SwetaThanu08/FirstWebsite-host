@@ -1,2 +1,3 @@
 # FirstWebsite-host
-Trying hosting websites using git
+hosting websites using git
+https://swetathanu08.github.io/FirstWebsite-host/
